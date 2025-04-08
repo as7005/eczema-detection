@@ -1,5 +1,13 @@
 # 🧴 Eczema Climate Care Analyzer
 
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-2.0+-darkgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Prototype-orange)
+
+
 This is a full-stack web app that detects eczema from images and provides personalized care tips based on current climate conditions (like temperature and humidity).
 
 ## 🧠 Features
