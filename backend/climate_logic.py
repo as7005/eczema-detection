@@ -2,7 +2,7 @@
 import requests
 
 def analyze_climate(city):
-    API_KEY = '59d4ebb92f8129d6b0844958d9f252df'
+    API_KEY = 'YOUR_API_KEY'
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
     r = requests.get(url).json()
     
